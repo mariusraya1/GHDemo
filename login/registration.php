@@ -9,7 +9,7 @@
 
     
         <a href="index.html" class="loginn" target="_top">Log inn</a>
-        <a href="http://localhost/prosjekt%20terminoppgave/" class="hjem" target="_top">Hjem</a>
+        <a href="oppskrifter.html" class="hjem" target="_top">Hjem</a>
 
         <style>
             .hjem, .loginn, .lagbruker {
